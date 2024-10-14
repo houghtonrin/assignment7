@@ -8,3 +8,4 @@ function calculate(){
     document.getElementById("tax").textContent = "Tax: $" +  tax;
     document.getElementById("total").textContent = "Total: $" +  total;
 }
+//fix it
